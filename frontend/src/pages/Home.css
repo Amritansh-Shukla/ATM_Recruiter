@@ -1,0 +1,10 @@
+.clickable-card {
+   cursor: pointer;
+   transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+ }
+ 
+ .clickable-card:hover {
+   transform: scale(1.05); /* Slight zoom effect on hover */
+   box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+ }
+ 

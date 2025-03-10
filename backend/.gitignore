@@ -1,0 +1,46 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+debug.log*
+logs/
+*.log
+
+# Output directories
+dist/
+build/
+coverage/
+tmp/
+.out/
+
+# Database files
+*.sqlite
+*.sqlite-journal
+dump.rdb
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+.nyc_output/
