@@ -24,7 +24,7 @@ ATM Recruiter is a job portal application that allows users to find and apply fo
 - Node.js with Express.js
 - MongoDB with Mongoose for database management
 - JWT authentication
-- Firebase for Google Authentication
+
 
 ## Installation & Setup
 
